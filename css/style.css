@@ -1,0 +1,14 @@
+body {background: #E8C5C5; margin-left: 50px; margin-right: 180px;}
+
+header {margin-top: 30px;}
+
+footer {margin-bottom: 30px;}
+
+.img_padrão {margin-bottom: 20px; width: 150px;}
+.logo {width: 50px;}
+
+h1{color: red; font-family: fantasy;}
+
+h2{font-family: fantasy;}
+
+p{font-size: 18px;}
